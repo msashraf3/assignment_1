@@ -76,6 +76,40 @@
     line-height: 26px;
     color: #444343;
 }
+/* second section  */
+.second{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.second-heading{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+margin-bottom: 70px;
+}
+.second-container{
+    display: flex;
+    justify-content: space-between;
+}
+.second-container-items{
+    text-align: center;
+}
+.second-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.second-des{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
 /* footer style  */
 footer{
     background-color: black;
