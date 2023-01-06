@@ -42,7 +42,40 @@
     background-color: orangered;
     padding: 20px 25px;
 }
-
+/* main section  */
+.main-content{
+    margin: 130px 230px;
+}
+/* first section  */
+.first{
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+.first-image{
+    width: 570px;
+    height: 720px;
+}
+.first-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+.first-des{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.first-list{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
 /* footer style  */
 footer{
     background-color: black;
