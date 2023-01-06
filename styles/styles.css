@@ -6,7 +6,7 @@
 
 /* header  */
 .header-bg {
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('images/banner/banner3.png');
     background-size: cover;
     background-position: 100%;
 }
