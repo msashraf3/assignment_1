@@ -75,6 +75,9 @@
     font-size: 16px;
     line-height: 26px;
     color: #444343;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 /* second section  */
 .second{
