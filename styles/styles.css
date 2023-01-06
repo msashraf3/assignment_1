@@ -110,6 +110,34 @@ margin-bottom: 70px;
     line-height: 29px;
     color: #737272;
 }
+/* third section  */
+.third{
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    border: 0;
+    border-radius: 10px;
+}
+.third-title{
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #FFFFFF;
+padding: 70px 900px 30px 64px;
+}
+.third-button{
+margin-left: 70px;
+padding: 21px 30px;
+border: 0;
+border-radius: 5px;
+background-color: white;
+color: #005FAC;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+}
 /* footer style  */
 footer{
     background-color: black;
